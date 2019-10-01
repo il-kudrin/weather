@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Weather\Weather.Data\bin\Debug\Weather.Data.dll
+C:\Users\Lenovo\source\repos\Weather\Weather.Data\bin\Debug\Weather.Data.pdb
+C:\Users\Lenovo\source\repos\Weather\Weather.Data\obj\Debug\Weather.Data.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Weather\Weather.Data\obj\Debug\Weather.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Weather\Weather.Data\obj\Debug\Weather.Data.dll
+C:\Users\Lenovo\source\repos\Weather\Weather.Data\obj\Debug\Weather.Data.pdb
+C:\Users\Lenovo\source\repos\Weather\Weather.Data\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\source\repos\Weather\Weather.Data\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo\source\repos\Weather\Weather.Data\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\source\repos\Weather\Weather.Data\bin\Debug\Renci.SshNet.dll
+C:\Users\Lenovo\source\repos\Weather\Weather.Data\bin\Debug\Google.Protobuf.xml
+C:\Users\Lenovo\source\repos\Weather\Weather.Data\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\source\repos\Weather\Weather.Data\bin\Debug\Renci.SshNet.xml
+C:\Users\Lenovo\source\repos\Weather\Weather.Data\obj\Debug\Weather.Data.csproj.CopyComplete
